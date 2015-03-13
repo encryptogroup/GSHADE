@@ -23,4 +23,4 @@ Currently, the server routine can be invoked by starting "./dst.exe 0" in one te
 Currently, the Euclidean distance and the Scalar product have been tested and should work properly. The Hamming distance is executed but might result in the wrong result. The Normalized Hamming distance is currently not implemented, due to problems with the internal program structure. 
 
 
-[1] Julien Bringer, Herve Chabanne, Melanie Favre, Alain Patey, Thomas Schneider, and Michael Zohner. GSHADE: Faster Privacy-Preserving Distance Computation and Biometric Identification, 2nd ACM Workshop on Information Hiding and Multimedia Security (IH&MMSEC 2014). 
+[1] [Julien Bringer, Herve Chabanne, Melanie Favre, Alain Patey, Thomas Schneider, and Michael Zohner. GSHADE: Faster Privacy-Preserving Distance Computation and Biometric Identification, 2nd ACM Workshop on Information Hiding and Multimedia Security (IH&MMSEC 2014)](http://thomaschneider.de/papers/BCFPSZ14.pdf)
