@@ -4,7 +4,7 @@ GSHADE
 
 --- Description ---
 
-Privacy preserving distance computation framework for: Hamming distance, Euclidean distance, Scalar Product and Normalized Hamming distance (currently not implemented) on the publication [1]. 
+Privacy preserving distance computation framework for: Hamming distance, Euclidean distance, Scalar Product and Normalized Hamming distance (currently not implemented) on the publication [1]. The GSHADE code is licensed under AGPLv3, see the LICENSE file for a copy of the license. 
 --- Requirements ---
 - Miracl (set up in /util/Miracl/ )
 - The GMP library
